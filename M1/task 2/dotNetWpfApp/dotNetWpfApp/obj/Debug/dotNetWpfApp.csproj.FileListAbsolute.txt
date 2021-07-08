@@ -1,0 +1,16 @@
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\bin\Debug\dotNetWpfApp.exe.config
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\bin\Debug\dotNetWpfApp.exe
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\bin\Debug\dotNetWpfApp.pdb
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\dotNetWpfApp.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\App.g.cs
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\dotNetWpfApp_MarkupCompile.cache
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\dotNetWpfApp_MarkupCompile.lref
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\MainWindow.baml
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\dotNetWpfApp.g.resources
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\dotNetWpfApp.Properties.Resources.resources
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\dotNetWpfApp.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\dotNetWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\dotNetWpfApp.exe
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\dotNetWpfApp.pdb
+C:\Users\Denis\Desktop\dotNetWpfApp\dotNetWpfApp\obj\Debug\dotNetWpfApp.csproj.CopyComplete

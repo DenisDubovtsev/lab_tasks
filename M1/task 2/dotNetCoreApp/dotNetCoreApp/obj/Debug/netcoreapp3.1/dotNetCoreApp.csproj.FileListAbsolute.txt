@@ -1,0 +1,28 @@
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.exe
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.deps.json
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.runtimeconfig.json
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.dll
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.pdb
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.AssemblyInfo.cs
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.dll
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.pdb
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.genruntimeconfig.cache
+C:\Users\Denis\Desktop\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.csproj.CopyComplete
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.exe
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.deps.json
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.runtimeconfig.json
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.dll
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\bin\Debug\netcoreapp3.1\dotNetCoreApp.pdb
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.AssemblyInfo.cs
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.csproj.CopyComplete
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.dll
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.pdb
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M1\task 2\dotNetCoreApp\dotNetCoreApp\obj\Debug\netcoreapp3.1\dotNetCoreApp.genruntimeconfig.cache

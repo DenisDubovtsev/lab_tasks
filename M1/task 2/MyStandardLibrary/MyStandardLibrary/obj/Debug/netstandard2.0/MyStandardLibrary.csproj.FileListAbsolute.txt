@@ -1,0 +1,8 @@
+C:\Users\Denis\Desktop\MyStandardLibrary\MyStandardLibrary\bin\Debug\netstandard2.0\MyStandardLibrary.deps.json
+C:\Users\Denis\Desktop\MyStandardLibrary\MyStandardLibrary\bin\Debug\netstandard2.0\MyStandardLibrary.dll
+C:\Users\Denis\Desktop\MyStandardLibrary\MyStandardLibrary\bin\Debug\netstandard2.0\MyStandardLibrary.pdb
+C:\Users\Denis\Desktop\MyStandardLibrary\MyStandardLibrary\obj\Debug\netstandard2.0\MyStandardLibrary.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\MyStandardLibrary\MyStandardLibrary\obj\Debug\netstandard2.0\MyStandardLibrary.AssemblyInfo.cs
+C:\Users\Denis\Desktop\MyStandardLibrary\MyStandardLibrary\obj\Debug\netstandard2.0\MyStandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\MyStandardLibrary\MyStandardLibrary\obj\Debug\netstandard2.0\MyStandardLibrary.dll
+C:\Users\Denis\Desktop\MyStandardLibrary\MyStandardLibrary\obj\Debug\netstandard2.0\MyStandardLibrary.pdb
