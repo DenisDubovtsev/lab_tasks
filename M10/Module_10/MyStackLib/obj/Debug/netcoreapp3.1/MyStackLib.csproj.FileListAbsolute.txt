@@ -1,0 +1,9 @@
+C:\Users\Denis\Desktop\Module_10\Module_10\MyStackLib\bin\Debug\netcoreapp3.1\MyStackLib.deps.json
+C:\Users\Denis\Desktop\Module_10\Module_10\MyStackLib\bin\Debug\netcoreapp3.1\MyStackLib.dll
+C:\Users\Denis\Desktop\Module_10\Module_10\MyStackLib\bin\Debug\netcoreapp3.1\MyStackLib.pdb
+C:\Users\Denis\Desktop\Module_10\Module_10\MyStackLib\obj\Debug\netcoreapp3.1\MyStackLib.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Module_10\Module_10\MyStackLib\obj\Debug\netcoreapp3.1\MyStackLib.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Module_10\Module_10\MyStackLib\obj\Debug\netcoreapp3.1\MyStackLib.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Module_10\Module_10\MyStackLib\obj\Debug\netcoreapp3.1\MyStackLib.dll
+C:\Users\Denis\Desktop\Module_10\Module_10\MyStackLib\obj\Debug\netcoreapp3.1\MyStackLib.pdb
+C:\Users\Denis\Desktop\Module_10\Module_10\MyStackLib\obj\Debug\netcoreapp3.1\MyStackLib.csproj.AssemblyReference.cache

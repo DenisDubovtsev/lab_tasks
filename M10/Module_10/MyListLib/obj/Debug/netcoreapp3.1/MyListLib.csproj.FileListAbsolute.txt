@@ -1,0 +1,8 @@
+C:\Users\Denis\Desktop\Module_10\Module_10\MyListLib\bin\Debug\netcoreapp3.1\MyListLib.deps.json
+C:\Users\Denis\Desktop\Module_10\Module_10\MyListLib\bin\Debug\netcoreapp3.1\MyListLib.dll
+C:\Users\Denis\Desktop\Module_10\Module_10\MyListLib\bin\Debug\netcoreapp3.1\MyListLib.pdb
+C:\Users\Denis\Desktop\Module_10\Module_10\MyListLib\obj\Debug\netcoreapp3.1\MyListLib.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Module_10\Module_10\MyListLib\obj\Debug\netcoreapp3.1\MyListLib.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Module_10\Module_10\MyListLib\obj\Debug\netcoreapp3.1\MyListLib.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Module_10\Module_10\MyListLib\obj\Debug\netcoreapp3.1\MyListLib.dll
+C:\Users\Denis\Desktop\Module_10\Module_10\MyListLib\obj\Debug\netcoreapp3.1\MyListLib.pdb

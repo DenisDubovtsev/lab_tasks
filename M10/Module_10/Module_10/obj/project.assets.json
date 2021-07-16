@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyListLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MyListLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyListLib.dll": {}
+        }
+      },
+      "MyQueueLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MyStackLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyQueueLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyQueueLib.dll": {}
+        }
+      },
+      "MyStackLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MyStackLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyStackLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyListLib/1.0.0": {
+      "type": "project",
+      "path": "../MyListLib/MyListLib.csproj",
+      "msbuildProject": "../MyListLib/MyListLib.csproj"
+    },
+    "MyQueueLib/1.0.0": {
+      "type": "project",
+      "path": "../MyQueueLib/MyQueueLib.csproj",
+      "msbuildProject": "../MyQueueLib/MyQueueLib.csproj"
+    },
+    "MyStackLib/1.0.0": {
+      "type": "project",
+      "path": "../MyStackLib/MyStackLib.csproj",
+      "msbuildProject": "../MyStackLib/MyStackLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MyListLib >= 1.0.0",
+      "MyQueueLib >= 1.0.0",
+      "MyStackLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Denis\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\EPAM\\EPAM Lab\\Modules\\M10\\Module_10\\Module_10\\Module_10.csproj",
+      "projectName": "Module_10",
+      "projectPath": "C:\\Users\\Denis\\Desktop\\EPAM\\EPAM Lab\\Modules\\M10\\Module_10\\Module_10\\Module_10.csproj",
+      "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Denis\\Desktop\\EPAM\\EPAM Lab\\Modules\\M10\\Module_10\\Module_10\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Denis\\Desktop\\EPAM\\EPAM Lab\\Modules\\M10\\Module_10\\MyListLib\\MyListLib.csproj": {
+              "projectPath": "C:\\Users\\Denis\\Desktop\\EPAM\\EPAM Lab\\Modules\\M10\\Module_10\\MyListLib\\MyListLib.csproj"
+            },
+            "C:\\Users\\Denis\\Desktop\\EPAM\\EPAM Lab\\Modules\\M10\\Module_10\\MyQueueLib\\MyQueueLib.csproj": {
+              "projectPath": "C:\\Users\\Denis\\Desktop\\EPAM\\EPAM Lab\\Modules\\M10\\Module_10\\MyQueueLib\\MyQueueLib.csproj"
+            },
+            "C:\\Users\\Denis\\Desktop\\EPAM\\EPAM Lab\\Modules\\M10\\Module_10\\MyStackLib\\MyStackLib.csproj": {
+              "projectPath": "C:\\Users\\Denis\\Desktop\\EPAM\\EPAM Lab\\Modules\\M10\\Module_10\\MyStackLib\\MyStackLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Module_10/1.0.0": {
+        "dependencies": {
+          "MyListLib": "1.0.0",
+          "MyQueueLib": "1.0.0",
+          "MyStackLib": "1.0.0"
+        },
+        "runtime": {
+          "Module_10.dll": {}
+        }
+      },
+      "MyListLib/1.0.0": {
+        "runtime": {
+          "MyListLib.dll": {}
+        }
+      },
+      "MyQueueLib/1.0.0": {
+        "dependencies": {
+          "MyStackLib": "1.0.0"
+        },
+        "runtime": {
+          "MyQueueLib.dll": {}
+        }
+      },
+      "MyStackLib/1.0.0": {
+        "runtime": {
+          "MyStackLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Module_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyListLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyQueueLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyStackLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
