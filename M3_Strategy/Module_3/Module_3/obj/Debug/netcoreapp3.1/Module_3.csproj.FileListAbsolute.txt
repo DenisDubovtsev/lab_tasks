@@ -1,0 +1,29 @@
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.exe
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.deps.json
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.runtimeconfig.json
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.dll
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.pdb
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3_Lib.dll
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3_Lib.pdb
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.csproj.CopyComplete
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.dll
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.pdb
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.genruntimeconfig.cache
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.exe
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.deps.json
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.runtimeconfig.json
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.dll
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\bin\Debug\netcoreapp3.1\Module_3.pdb
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.AssemblyInfo.cs
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.dll
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.pdb
+C:\Users\Denis\Desktop\EPAM\EPAM Lab\Modules\M3\Module_3\Module_3\obj\Debug\netcoreapp3.1\Module_3.genruntimeconfig.cache
