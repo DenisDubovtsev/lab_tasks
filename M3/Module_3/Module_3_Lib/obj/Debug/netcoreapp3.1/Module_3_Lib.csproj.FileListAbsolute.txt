@@ -1,0 +1,9 @@
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3_Lib\bin\Debug\netcoreapp3.1\Module_3_Lib.deps.json
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3_Lib\bin\Debug\netcoreapp3.1\Module_3_Lib.dll
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3_Lib\bin\Debug\netcoreapp3.1\Module_3_Lib.pdb
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3_Lib\obj\Debug\netcoreapp3.1\Module_3_Lib.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3_Lib\obj\Debug\netcoreapp3.1\Module_3_Lib.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3_Lib\obj\Debug\netcoreapp3.1\Module_3_Lib.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3_Lib\obj\Debug\netcoreapp3.1\Module_3_Lib.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3_Lib\obj\Debug\netcoreapp3.1\Module_3_Lib.dll
+C:\Users\Denis\Desktop\Module_3\Module_3\Module_3_Lib\obj\Debug\netcoreapp3.1\Module_3_Lib.pdb
